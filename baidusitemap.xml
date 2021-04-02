@@ -1,20 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://archer198.xyz/2021/02/16/rnn/</loc>
+    <lastmod>2021-04-02</lastmod>
+  </url>
+  <url>
+    <loc>https://archer198.xyz/2020/12/06/leetcode-225/</loc>
+    <lastmod>2021-04-02</lastmod>
+  </url>
+  <url>
+    <loc>https://archer198.xyz/2020/12/02/ml1/</loc>
+    <lastmod>2021-04-02</lastmod>
+  </url>
+  <url>
+    <loc>https://archer198.xyz/2021/02/15/word2vec/</loc>
+    <lastmod>2021-04-02</lastmod>
+  </url>
+  <url>
+    <loc>https://archer198.xyz/2020/12/02/leetcode-496/</loc>
+    <lastmod>2021-04-02</lastmod>
+  </url>
+  <url>
+    <loc>https://archer198.xyz/2020/12/02/leetcode-107/</loc>
+    <lastmod>2021-04-02</lastmod>
+  </url>
+  <url>
     <loc>https://archer198.xyz/2020/12/02/java-foundation/</loc>
-    <lastmod>2021-03-30</lastmod>
+    <lastmod>2021-04-02</lastmod>
   </url>
   <url>
     <loc>https://archer198.xyz/2020/12/10/hexo-update1/</loc>
     <lastmod>2021-03-17</lastmod>
-  </url>
-  <url>
-    <loc>https://archer198.xyz/2021/02/16/rnn/</loc>
-    <lastmod>2021-02-16</lastmod>
-  </url>
-  <url>
-    <loc>https://archer198.xyz/2021/02/15/word2vec/</loc>
-    <lastmod>2021-02-16</lastmod>
   </url>
   <url>
     <loc>https://archer198.xyz/2020/12/03/hexo-problem/</loc>
@@ -23,14 +39,6 @@
   <url>
     <loc>https://archer198.xyz/2020/12/17/leetcode-714/</loc>
     <lastmod>2020-12-17</lastmod>
-  </url>
-  <url>
-    <loc>https://archer198.xyz/2020/12/06/leetcode-225/</loc>
-    <lastmod>2020-12-06</lastmod>
-  </url>
-  <url>
-    <loc>https://archer198.xyz/2020/12/02/ml1/</loc>
-    <lastmod>2020-12-02</lastmod>
   </url>
   <url>
     <loc>https://archer198.xyz/2020/12/02/javaweb2/</loc>
@@ -61,10 +69,6 @@
     <lastmod>2020-12-02</lastmod>
   </url>
   <url>
-    <loc>https://archer198.xyz/2020/12/02/leetcode-496/</loc>
-    <lastmod>2020-12-02</lastmod>
-  </url>
-  <url>
     <loc>https://archer198.xyz/2020/12/02/leetcode-453/</loc>
     <lastmod>2020-12-02</lastmod>
   </url>
@@ -86,10 +90,6 @@
   </url>
   <url>
     <loc>https://archer198.xyz/2020/12/02/leetcode-108/</loc>
-    <lastmod>2020-12-02</lastmod>
-  </url>
-  <url>
-    <loc>https://archer198.xyz/2020/12/02/leetcode-107/</loc>
     <lastmod>2020-12-02</lastmod>
   </url>
   <url>
