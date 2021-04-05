@@ -4,7 +4,7 @@
   <url>
     <loc>https://archer198.xyz/music/index.html</loc>
     
-    <lastmod>2021-04-04</lastmod>
+    <lastmod>2021-04-05</lastmod>
     
   </url>
   
@@ -249,13 +249,6 @@
   </url>
   
   <url>
-    <loc>https://archer198.xyz/tags/IOC/</loc>
-    <lastmod>2021-04-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://archer198.xyz/tags/LeetCode/</loc>
     <lastmod>2021-04-05</lastmod>
     <changefreq>daily</changefreq>
@@ -277,6 +270,13 @@
   </url>
   
   <url>
+    <loc>https://archer198.xyz/tags/IOC/</loc>
+    <lastmod>2021-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://archer198.xyz/tags/C/</loc>
     <lastmod>2021-04-05</lastmod>
     <changefreq>daily</changefreq>
@@ -291,13 +291,6 @@
   </url>
   
   <url>
-    <loc>https://archer198.xyz/tags/%E7%88%AC%E8%99%AB/</loc>
-    <lastmod>2021-04-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://archer198.xyz/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-04-05</lastmod>
     <changefreq>daily</changefreq>
@@ -306,6 +299,13 @@
   
   <url>
     <loc>https://archer198.xyz/tags/Tensorflow/</loc>
+    <lastmod>2021-04-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://archer198.xyz/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2021-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -370,14 +370,14 @@
   </url>
   
   <url>
-    <loc>https://archer198.xyz/categories/Python/</loc>
+    <loc>https://archer198.xyz/categories/ML/</loc>
     <lastmod>2021-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://archer198.xyz/categories/ML/</loc>
+    <loc>https://archer198.xyz/categories/Python/</loc>
     <lastmod>2021-04-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
