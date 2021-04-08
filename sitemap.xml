@@ -326,6 +326,13 @@
   </url>
   
   <url>
+    <loc>https://archer198.xyz/tags/%E7%88%AC%E8%99%AB/</loc>
+    <lastmod>2021-04-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://archer198.xyz/tags/Pytorch/</loc>
     <lastmod>2021-04-08</lastmod>
     <changefreq>daily</changefreq>
@@ -348,13 +355,6 @@
   
   <url>
     <loc>https://archer198.xyz/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2021-04-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://archer198.xyz/tags/%E7%88%AC%E8%99%AB/</loc>
     <lastmod>2021-04-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
