@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://archer198.xyz/2021/04/21/python1/</loc>
+    <lastmod>2021-04-21</lastmod>
+  </url>
+  <url>
+    <loc>https://archer198.xyz/2021/04/19/bert1/</loc>
+    <lastmod>2021-04-20</lastmod>
+  </url>
+  <url>
     <loc>https://archer198.xyz/2021/02/16/rnn/</loc>
     <lastmod>2021-04-02</lastmod>
   </url>

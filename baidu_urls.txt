@@ -1,3 +1,5 @@
+https://archer198.xyz/2021/04/21/python1/
+https://archer198.xyz/2021/04/19/bert1/
 https://archer198.xyz/2021/02/16/rnn/
 https://archer198.xyz/2021/02/15/word2vec/
 https://archer198.xyz/2020/12/17/leetcode-714/
