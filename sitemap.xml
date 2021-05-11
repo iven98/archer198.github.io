@@ -305,13 +305,6 @@
 
   
   <url>
-    <loc>https://zakary.top/tags/hexo/</loc>
-    <lastmod>2021-05-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zakary.top/tags/BERT/</loc>
     <lastmod>2021-05-11</lastmod>
     <changefreq>daily</changefreq>
@@ -327,6 +320,13 @@
   
   <url>
     <loc>https://zakary.top/tags/NLP/</loc>
+    <lastmod>2021-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zakary.top/tags/hexo/</loc>
     <lastmod>2021-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -375,6 +375,13 @@
   </url>
   
   <url>
+    <loc>https://zakary.top/tags/IOC/</loc>
+    <lastmod>2021-05-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zakary.top/tags/LeetCode/</loc>
     <lastmod>2021-05-11</lastmod>
     <changefreq>daily</changefreq>
@@ -382,7 +389,7 @@
   </url>
   
   <url>
-    <loc>https://zakary.top/tags/Python/</loc>
+    <loc>https://zakary.top/tags/C/</loc>
     <lastmod>2021-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -396,14 +403,7 @@
   </url>
   
   <url>
-    <loc>https://zakary.top/tags/IOC/</loc>
-    <lastmod>2021-05-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zakary.top/tags/C/</loc>
+    <loc>https://zakary.top/tags/Python/</loc>
     <lastmod>2021-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -496,14 +496,14 @@
 
   
   <url>
-    <loc>https://zakary.top/categories/hexo/</loc>
+    <loc>https://zakary.top/categories/NLP/</loc>
     <lastmod>2021-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://zakary.top/categories/NLP/</loc>
+    <loc>https://zakary.top/categories/hexo/</loc>
     <lastmod>2021-05-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
